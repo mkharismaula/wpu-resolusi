@@ -2,3 +2,4 @@ WPU RESOLUSI
 - konsisten latihan javascript
 - tiap bulan ada project latihan sendiri
 - harus dapat mengelola server 
+- menggunakan ai phyton
